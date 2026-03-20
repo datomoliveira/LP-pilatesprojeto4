@@ -1,3 +1,34 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-bg",
+      "description": "Luxurious pilates studio interior",
+      "imageUrl": "https://picsum.photos/seed/pilates-luxury/1920/1080",
+      "imageHint": "luxury pilates"
+    },
+    {
+      "id": "reformer",
+      "description": "High-end pilates reformer machine",
+      "imageUrl": "https://picsum.photos/seed/reformer/800/600",
+      "imageHint": "pilates reformer"
+    },
+    {
+      "id": "cadillac",
+      "description": "Pilates Cadillac equipment",
+      "imageUrl": "https://picsum.photos/seed/cadillac/800/600",
+      "imageHint": "pilates cadillac"
+    },
+    {
+      "id": "studio-space",
+      "description": "Minimalist studio lounge area",
+      "imageUrl": "https://picsum.photos/seed/studio/800/600",
+      "imageHint": "minimalist interior"
+    },
+    {
+      "id": "instructor",
+      "description": "Professional pilates instructor",
+      "imageUrl": "https://picsum.photos/seed/instructor/600/800",
+      "imageHint": "yoga instructor"
+    }
+  ]
 }
